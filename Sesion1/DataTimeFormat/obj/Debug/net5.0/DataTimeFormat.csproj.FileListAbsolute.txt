@@ -1,0 +1,16 @@
+E:\VisualDocument\Sesion1\DataTimeFormat\bin\Debug\net5.0\DataTimeFormat.exe
+E:\VisualDocument\Sesion1\DataTimeFormat\bin\Debug\net5.0\DataTimeFormat.deps.json
+E:\VisualDocument\Sesion1\DataTimeFormat\bin\Debug\net5.0\DataTimeFormat.runtimeconfig.json
+E:\VisualDocument\Sesion1\DataTimeFormat\bin\Debug\net5.0\DataTimeFormat.runtimeconfig.dev.json
+E:\VisualDocument\Sesion1\DataTimeFormat\bin\Debug\net5.0\DataTimeFormat.dll
+E:\VisualDocument\Sesion1\DataTimeFormat\bin\Debug\net5.0\ref\DataTimeFormat.dll
+E:\VisualDocument\Sesion1\DataTimeFormat\bin\Debug\net5.0\DataTimeFormat.pdb
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.csproj.AssemblyReference.cache
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.AssemblyInfoInputs.cache
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.AssemblyInfo.cs
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.csproj.CoreCompileInputs.cache
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.dll
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\ref\DataTimeFormat.dll
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.pdb
+E:\VisualDocument\Sesion1\DataTimeFormat\obj\Debug\net5.0\DataTimeFormat.genruntimeconfig.cache

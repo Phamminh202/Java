@@ -1,0 +1,16 @@
+E:\VisualDocument\Sesion1\btLap3\bin\Debug\net5.0\btLap3.exe
+E:\VisualDocument\Sesion1\btLap3\bin\Debug\net5.0\btLap3.deps.json
+E:\VisualDocument\Sesion1\btLap3\bin\Debug\net5.0\btLap3.runtimeconfig.json
+E:\VisualDocument\Sesion1\btLap3\bin\Debug\net5.0\btLap3.runtimeconfig.dev.json
+E:\VisualDocument\Sesion1\btLap3\bin\Debug\net5.0\btLap3.dll
+E:\VisualDocument\Sesion1\btLap3\bin\Debug\net5.0\ref\btLap3.dll
+E:\VisualDocument\Sesion1\btLap3\bin\Debug\net5.0\btLap3.pdb
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.AssemblyInfoInputs.cache
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.AssemblyInfo.cs
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.csproj.CoreCompileInputs.cache
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.dll
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\ref\btLap3.dll
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.pdb
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.genruntimeconfig.cache
+E:\VisualDocument\Sesion1\btLap3\obj\Debug\net5.0\btLap3.csproj.AssemblyReference.cache
