@@ -1,0 +1,16 @@
+E:\VisualDocument\SachSS7\bin\Debug\net5.0\SachSS7.exe
+E:\VisualDocument\SachSS7\bin\Debug\net5.0\SachSS7.deps.json
+E:\VisualDocument\SachSS7\bin\Debug\net5.0\SachSS7.runtimeconfig.json
+E:\VisualDocument\SachSS7\bin\Debug\net5.0\SachSS7.runtimeconfig.dev.json
+E:\VisualDocument\SachSS7\bin\Debug\net5.0\SachSS7.dll
+E:\VisualDocument\SachSS7\bin\Debug\net5.0\ref\SachSS7.dll
+E:\VisualDocument\SachSS7\bin\Debug\net5.0\SachSS7.pdb
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.csproj.AssemblyReference.cache
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.AssemblyInfoInputs.cache
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.AssemblyInfo.cs
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.csproj.CoreCompileInputs.cache
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.dll
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\ref\SachSS7.dll
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.pdb
+E:\VisualDocument\SachSS7\obj\Debug\net5.0\SachSS7.genruntimeconfig.cache
