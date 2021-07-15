@@ -1,0 +1,16 @@
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.csproj.AssemblyReference.cache
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.AssemblyInfoInputs.cache
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.AssemblyInfo.cs
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.csproj.CoreCompileInputs.cache
+E:\VisualDocument\Tark9\bin\Debug\net5.0\Tark9.exe
+E:\VisualDocument\Tark9\bin\Debug\net5.0\Tark9.deps.json
+E:\VisualDocument\Tark9\bin\Debug\net5.0\Tark9.runtimeconfig.json
+E:\VisualDocument\Tark9\bin\Debug\net5.0\Tark9.runtimeconfig.dev.json
+E:\VisualDocument\Tark9\bin\Debug\net5.0\Tark9.dll
+E:\VisualDocument\Tark9\bin\Debug\net5.0\ref\Tark9.dll
+E:\VisualDocument\Tark9\bin\Debug\net5.0\Tark9.pdb
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.dll
+E:\VisualDocument\Tark9\obj\Debug\net5.0\ref\Tark9.dll
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.pdb
+E:\VisualDocument\Tark9\obj\Debug\net5.0\Tark9.genruntimeconfig.cache
