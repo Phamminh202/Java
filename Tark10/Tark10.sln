@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tark10", "Tark10.csproj", "{1761D1A2-F078-4416-8DDD-5C77E8203A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1761D1A2-F078-4416-8DDD-5C77E8203A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1761D1A2-F078-4416-8DDD-5C77E8203A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1761D1A2-F078-4416-8DDD-5C77E8203A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1761D1A2-F078-4416-8DDD-5C77E8203A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94B6766-A244-49FD-AA5A-0E0ED9B0820E}
+	EndGlobalSection
+EndGlobal
